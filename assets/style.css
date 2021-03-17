@@ -5,7 +5,7 @@ body {
 }
 
 textarea{
-  background: transparent;
+  background: rgb(89, 233, 233);
   border: none;
   resize: none;
   color: #000000;
@@ -20,6 +20,9 @@ textarea{
   border-radius: 0;
   border-bottom: 10px solid black;
 }
+.custom-header{ background-color: darkcyan; }
+
+.custom-footer{ background-color: darkcyan;}
 
 .description{
   white-space: pre-wrap;
