@@ -22,7 +22,8 @@ textarea{
 }
 .custom-header{ background-color: darkcyan; }
 
-.custom-footer{ background-color: darkcyan;}
+.custom-footer{ background-color: darkcyan;
+margin-top: 20px;}
 
 .description{
   white-space: pre-wrap;
