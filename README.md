@@ -1,5 +1,5 @@
 # Work-Day-Planner
-Please visit the deployed site  https://domenicsw92.github.io/Coding-Quiz/
+Please visit the deployed site https://domenicsw92.github.io/Work-Day-Planner/
 
 # Description 
 The purpose of this assignment was to create a Day planner using JQuery and momments.js JavaScript that behaves like so:
